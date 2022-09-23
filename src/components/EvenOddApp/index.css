@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.container {
+  background-color: white;
+  background-size: cover;
+  text-align: center;
+  padding: 50px;
+  width: 100vw;
+  height: 100vh;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  border-radius: 15px;
+  width: 40vw;
+  height: 50vh;
+}
+.heading {
+  color: #0f172a;
+}
+p {
+  color: #334155;
+}
+.button {
+  background-color: #ffffff;
+  color: #1e293b;
+  width: 105px;
+  height: 37px;
+  padding: 12px;
+  border-radius: 10px;
+}
